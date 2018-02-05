@@ -8,7 +8,7 @@ Skráningarform tekur við eftirfarandi gögnum:
 
 * Nafni, verður að vera skráð
 * Netfangi, verður að vera skráð og líta út fyrir að vera netfang
-* Kennitölu, verður að vera skráð og vera gild kennitala (???)
+* Kennitölu, verður að vera skráð
 * Fjölda, verður að vera skráð og verður að vera tala sem er stærri en 0
 
 Ef gögn eru ekki rétt skráð skal birta notanda villuskilaboð ásamt þeim gögnum sem áður voru skráð. Passa þarf upp á að gögn séu hrein, sérstaklega af `XSS` strengjum. Gögn skulu skráð örugglega (með _parameterized input_) í postgres grunn.
