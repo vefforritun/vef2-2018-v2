@@ -46,6 +46,13 @@ Notast skal við [Pug template](https://pugjs.org/) til að útbúa HTML. Sjá g
 
 Verkefnið skal keyra á Heroku og bjóða upp á innskráningu og vistun í gagnagrunn.
 
+Við lausn á verkefni er gott að líta til eftirfarandi dæma:
+
+* [Staðfesting gagna úr formi](https://github.com/vefforritun/vef2-2018/blob/master/fyrirlestrar/03/daemi/form/data-validator.js)
+* [select, async og await](https://github.com/vefforritun/vef2-2018/blob/master/fyrirlestrar/03/daemi/postgres/select-async-await.js)
+* [insert, async og await](https://github.com/vefforritun/vef2-2018/blob/master/fyrirlestrar/03/daemi/postgres/insert-async-await.js)
+* [passport.js dæmi](https://github.com/vefforritun/vef2-2018/blob/master/fyrirlestrar/05/daemi/auth/passport.js)
+
 ## Útlit
 
 CSS skrá ásamt mynd í haus skal sækja gegnum _static_ middleware í Express úr `/public` möppu.
