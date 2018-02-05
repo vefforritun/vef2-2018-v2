@@ -50,7 +50,9 @@ Verkefnið skal keyra á Heroku og bjóða upp á innskráningu og vistun í gag
 
 CSS skrá ásamt mynd í haus skal sækja gegnum _static_ middleware í Express úr `/public` möppu.
 
-CSS skal vera snyrtilegt, skalanlegt og nota flexbox. Ekki þarf að fylgja nákvæmlega gefnu útliti en það skal vera frekar líkt.
+CSS skal vera snyrtilegt, skalanlegt og nota flexbox. Ekki þarf að fylgja nákvæmlega gefnu útliti en það skal vera frekar líkt. Ekki þarf að huga sérstaklega að skalanleika útlits.
+
+[Sjá fyrirmyndir](/layout/README.md)
 
 ## Git og GitHub
 
